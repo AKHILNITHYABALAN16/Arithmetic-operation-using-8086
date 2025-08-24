@@ -57,15 +57,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+| 1200h                   |                  1204h   |       
+| 1201h                   |                  1205h   |
+| 1202h                   |                  1206h   |
+| 1203h                   |                  -       |
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-08-24 at 22 52 48_095669d5](https://github.com/user-attachments/assets/b5e19aad-de3d-47c8-aad1-80715ead6fc7)
+
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+https://d.docs.live.net/d51d1c10480e3bd6/Documents/addakhil.mpmc.docx
 
 ## 2. SUBTRACTION
 
@@ -90,16 +95,21 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|  1200h                  |                   1204h  |        
+|  1201h                  |                   1205h  |
+|  1202h                  |                   1206h  |
+|  1203h                  |                   -      |
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-08-24 at 23 06 21_0667e3e1](https://github.com/user-attachments/assets/6ae1a7ab-9877-4801-940f-0056161e2c00)
+
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+https://d.docs.live.net/D51D1C10480E3BD6/Documents/subakhil.mpmc.docx
 
 ## 3. MULTIPLICATION
 
@@ -139,15 +149,21 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|  1200h                  |                  1204h   |
+|  1201h                  |                  1205h   |
+|  1202h                  |                  1206h   |
+|  1203h                  |                  1207h   |
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-08-24 at 23 06 22_aa9e04a5](https://github.com/user-attachments/assets/98e434a2-05c9-4420-b42a-78333edd9feb)
+
+
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+https://d.docs.live.net/d51d1c10480e3bd6/Documents/mulakhil.mpmc.docx
 
 ## 4. DIVISION
 
@@ -184,14 +200,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|  1200h                  |                   1204h  |        
+|  1201h                  |                   1205h  |
+|  1202h                  |                   1206h  |
+|  1203h                  |                   1207h  |
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-08-25 at 00 11 00_ac7770bf](https://github.com/user-attachments/assets/0aa667f8-4063-4e91-9914-dd6bd60d0d76)
+
+
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+https://d.docs.live.net/d51d1c10480e3bd6/Documents/divakhil.mpmc.docx
 
 
 
