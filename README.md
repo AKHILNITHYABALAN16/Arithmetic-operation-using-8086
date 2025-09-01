@@ -70,7 +70,9 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-https://d.docs.live.net/d51d1c10480e3bd6/Documents/addakhil.mpmc.docx
+<img width="640" height="480" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/b4527938-1a65-455c-8332-b3e7780702d2" />
+<img width="640" height="480" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/30148207-6e8e-437d-96d1-d95c4207f231" />
+
 
 ## 2. SUBTRACTION
 
@@ -109,7 +111,9 @@ https://d.docs.live.net/d51d1c10480e3bd6/Documents/addakhil.mpmc.docx
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-https://d.docs.live.net/D51D1C10480E3BD6/Documents/subakhil.mpmc.docx
+<img width="640" height="480" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/2cc974e4-af61-494b-9c16-bb29f7a4628d" />
+<img width="640" height="480" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/4e87a497-b675-45c7-85fc-24f39602d8ac" />
+
 
 ## 3. MULTIPLICATION
 
@@ -163,7 +167,10 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-https://d.docs.live.net/d51d1c10480e3bd6/Documents/mulakhil.mpmc.docx
+<img width="640" height="480" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/76d1ca58-9ded-4702-824a-906293f64d07" />
+<img width="640" height="480" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/83bb98d6-9f92-409d-abe7-28fdc43d9d00" />
+
+
 
 ## 4. DIVISION
 
@@ -213,7 +220,9 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-https://d.docs.live.net/d51d1c10480e3bd6/Documents/divakhil.mpmc.docx
+<img width="640" height="480" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/99a5c0be-fc7a-4522-975b-f08720c31160" />
+
+<img width="640" height="480" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/de638f26-2793-4561-8c4e-d0c14e511751" />
 
 
 
